@@ -1,0 +1,118 @@
+while loop concept explanation
+	- what is a loop (groundhog day)
+	- watch the movie groundHog day for a visual understanding
+
+	- when we want to repeat something
+	- use google search 'what is a loop in programming' keyword sequence(i.e - meaning plural, not singular)
+
+
+
+similarities between while loops & conditions
+	-both are conditioned based meaning it must be true or false
+
+and therefore, depending on the input an specific outcome will be achieved, meaning it is an engineered outcome
+meaning if we want it to do a variety of options
+
+we use while loops and conditions with booleans
+
+
+difference btw while loops and conditionals
+-it doesn't stop UNTIL the condition is achieved
+
+Philisophical explanation 
+
+in another sense, when you don't learn your lesson
+	-can be about personal life mistakes
+	-can be in your studies
+	-can be in your social relationships like friends
+	-can even be when you take the wrong bus or the wrong route
+	-or when you know your smartphone battery will only last you 3 hours and you decide to keep procrastinating getting a portable battery maybe cos u were waiting for your parents to give you allowance to buy it when you could've signed up for that 3 day part time work event and get it yourself
+
+it will keep repeating itself over and over and you will keep getting the same unpleasant outcome
+
+and only when the condition state becomes False
+-it stops repeating
+
+same thing, when you stop making the same mistakes, 
+
+however, as your instructor who likes to apply his work into all areas of life, if you keep doing the same thing that allows you to achieve success repeatedly
+
+keep doing that
+-like for example, waking up early, planning ahead, giving full concentration in class
+
+now that's something worth repeating
+
+
+conditions only happens 1 time
+
+
+
+which is more effective?
+
+-no right or wrong answer because this is circumstantial
+depending on what are the requirements of your programme
+
+if you need something to repeat itself without a set limit like our password prompter
+-while loops
+
+but when it comes to checking multiple conditions
+	-we can't keep running no limit things like our calculator operation
+
+and so and if condition will be better here
+
+-think of it as a light switch analogy
+
+if lets say every time you leave the house and your parents requested for you to turn off all the lights so that no electricity is wasted while no one is using
+
+and, being privileged singaporeans, we keep forgetting what they say we will do
+
+they can implement a program to continuously lock the door, even when you have the key to unlock it
+
+until the condition, all lights in the house are turned off
+
+then do the condition becomes false
+
+after the lesson today, if you play around with your light switch you will notice, it only goes 2 ways
+and off, will be that the lights are in false states i.e no lights
+lights on, will be true
+there are lights
+
+
+[review]
+
+similarities - both are condition based
+difference   - loops are used only when you want something to happen multiple times, conditons only when you want it to happen once
+
+for loop, when you run multiple values in a sequential order, meaning. it has an ending
+like p1-p6, s1-s4
+or a todo list
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
